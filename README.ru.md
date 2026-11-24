@@ -1,6 +1,7 @@
-# Quiet Thread Dots
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](README.ru.md)
 
-[English version](README.md)
+# Quiet Thread Dots
 
 Выберите для каждого треда bb, какие успешные ходы показывают точку непрочитанного. Та же настройка определяет, появится ли из-за этого треда точка на иконке bb в Dock macOS, в том числе при скрытом окне.
 

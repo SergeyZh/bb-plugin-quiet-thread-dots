@@ -1,6 +1,7 @@
-# Quiet Thread Dots
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](README.ru.md)
 
-[Русская версия](README.ru.md)
+# Quiet Thread Dots
 
 Choose which successful turns show an unread dot for each thread in bb. The same preference controls whether the thread contributes an unread dot to the macOS Dock, including while the bb window is hidden.
 
